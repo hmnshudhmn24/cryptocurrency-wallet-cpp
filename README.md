@@ -32,6 +32,3 @@ g++ cryptocurrency_wallet.cpp -o wallet -lssl -lcrypto
 - Implement encryption for private keys.
 - Add a user authentication mechanism.
 - Integrate a network-based peer-to-peer transfer system.
-
-## License
-This project is open-source and can be modified freely.
